@@ -3,9 +3,18 @@
     box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;600&family=Montserrat+Subrayada&display=swap');
+
 body {
-    margin: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'Assistant', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat Subrayada', sans-serif;
 }
 header, section {
     padding: 20px;
